@@ -12,15 +12,15 @@ Nurul Aqilah Binti Abdul Ghaffar | 1620090
 Instructor’s Name - Dr. MUHAMAD SADRY ABU SEMAN
 
 
-######**INTRODUCTION**
+**INTRODUCTION**
 
 In 2020, we are living in a new normal because of COVID19 pandemic. This new normal includes registering our details such as full name, mobile number and location before we enter any business premise. Thus, we want to build an app called International Research and Invention Exhibition IRIE 2020 with the aim to ease the registration process of the exhibition for both the exhibitors and visitors. With this app, the admin can process beforehand the details of the participants to ensure a smooth process during the exhibition as every organizer needs to abide by the standard operating procedure of the COVID19, which there is limitation to the number of people gathered for an exhibition.  The admin can also organize the exhibition more systematically with the details that they obtained from this app. Moreover, this app will consist of many functionalities such as authentication, registration, feedback and will be developed using react native language and firebase as the back-end.
 
-######**OBJECTIVES**
+**OBJECTIVES**
 To ease the registration process of the exhibition for the exhibitors and visitors.
 To help the admin organize the exhibition by obtaining participants data before the exhibitions.
 
-######**FEATURES AND FUNCTIONALITIES**
+**FEATURES AND FUNCTIONALITIES**
 
 As our proposed mobile application is “INTERNATIONAL RESEARCH AND INVENTION EXHIBITION IRIE 2020”. We decided as a group to encounter a number of features and functionalities that are suitable for this type of mobile application. 
 Features:
@@ -29,7 +29,7 @@ Features:
 3. Feedback feature: Although, the way we allow applicants to register online but, it is an important factor to furnish them with feedback regularly. Since then, we have goals to provide them with feedback to keep awareness with our users such as confirming for them the process of registration. Although, our mobile app can ease the way for them to do registration online but without assuring the status of registration so it will be religious. So, we will furnish the applicant or participant with feedback that confirmed for them the registration if it is done or not. To illustrate, the exhibitor in this way can make sure they successfully done registration or not, so they are able to recognize or manage better preparation for posters at specified time while if not successfully register can also manage to find replacement.
  
 
-######**Functionality:**
+**Functionality:**
 **API**
 Beside the various API that available and can be integrated in such any type of mobile app.we decided to include API notification.The reason why we choose API notification is that the most suitable to our mobile app project type specifically push notification.To ease the registration way for exhibitors and make sure their registration is fulfilled accordingly, As well as, it allows us to recognize the exhibitors who fill in the required field and register . In addition to that it will come up with various advantages on both sides such a register is confirmed. The exhibitors can confirm their poster registration which enables them to settle down the exhibition day and avoid any conflicts.
 
@@ -46,7 +46,7 @@ Basically, any platform that is designated to serve users should be entertained 
 **Firebase for data storage:**
   Using firebase will serve  as a database system that registers details of our users such as     applicants or visitors. So, it will store the details of users which can be useful later in the authentication and registration process. Based on that, the role of firebase to check that if the registration slots are  full or not based on database storage.Since then, the user is permitted to register through the form if there is place and then it will be listed that registered successfully.While if it is full,it will appear for the user that it is full and can not be added.Lastly, we can said that the firebase role is so useful as will help us as the data storage which result in enabling registration based on the existent places.
 
-######**SCREEN NAVIGATION**
+**SCREEN NAVIGATION**
 
 The figure below shows the screen navigation design for IRIE system:
  
@@ -55,7 +55,7 @@ Format: ![Alt Text](url)
 
 FIgure (1) Screen Navigation Diagram 
 
-######**SEQUENCE DIAGRAM**
+**SEQUENCE DIAGRAM**
 
  This is a sequence diagram to represent the interaction of the proposed mobile application.
  
