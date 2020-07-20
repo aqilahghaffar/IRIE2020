@@ -1,6 +1,4 @@
-# TITLE
-INTERNATIONAL RESEARCH AND INVENTION EXHIBITION IRIE 2020 MOBILE APP 
-
+# INTERNATIONAL RESEARCH AND INVENTION EXHIBITION IRIE 2020 MOBILE APP 
 
 Name | Matric Number
 ------------ | -------------
@@ -17,8 +15,8 @@ Instructor’s Name - Dr. MUHAMAD SADRY ABU SEMAN
 In 2020, we are living in a new normal because of COVID19 pandemic. This new normal includes registering our details such as full name, mobile number and location before we enter any business premise. Thus, we want to build an app called International Research and Invention Exhibition IRIE 2020 with the aim to ease the registration process of the exhibition for both the exhibitors and visitors. With this app, the admin can process beforehand the details of the participants to ensure a smooth process during the exhibition as every organizer needs to abide by the standard operating procedure of the COVID19, which there is limitation to the number of people gathered for an exhibition.  The admin can also organize the exhibition more systematically with the details that they obtained from this app. Moreover, this app will consist of many functionalities such as authentication, registration, feedback and will be developed using react native language and firebase as the back-end.
 
 **OBJECTIVES**
-To ease the registration process of the exhibition for the exhibitors and visitors.
-To help the admin organize the exhibition by obtaining participants data before the exhibitions.
+1. To ease the registration process of the exhibition for the exhibitors and visitors.
+1. To help the admin organize the exhibition by obtaining participants data before the exhibitions.
 
 **FEATURES AND FUNCTIONALITIES**
 
@@ -30,6 +28,7 @@ Features:
  
 
 **Functionality:**
+
 **API**
 Beside the various API that available and can be integrated in such any type of mobile app.we decided to include API notification.The reason why we choose API notification is that the most suitable to our mobile app project type specifically push notification.To ease the registration way for exhibitors and make sure their registration is fulfilled accordingly, As well as, it allows us to recognize the exhibitors who fill in the required field and register . In addition to that it will come up with various advantages on both sides such a register is confirmed. The exhibitors can confirm their poster registration which enables them to settle down the exhibition day and avoid any conflicts.
 
@@ -51,16 +50,16 @@ Basically, any platform that is designated to serve users should be entertained 
 The figure below shows the screen navigation design for IRIE system:
  
  ![Screen Navigation](/screen.png)
-Format: ![Alt Text](url)
 
-FIgure (1) Screen Navigation Diagram 
+
+                                                Figure (1) Screen Navigation Diagram 
 
 **SEQUENCE DIAGRAM**
 
  This is a sequence diagram to represent the interaction of the proposed mobile application.
  
  ![Sequence Diagram](/sequence.png)
-Format: ![Alt Text](url)
+
 
                                                 Figure (2) Sequence Diagram 
 
