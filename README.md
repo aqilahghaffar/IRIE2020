@@ -50,7 +50,7 @@ Basically, any platform that is designated to serve users should be entertained 
 
 The figure below shows the screen navigation design for IRIE system:
  
- ![Screen Navigation](/images/screen.png)
+ ![Screen Navigation](/screen.png)
 Format: ![Alt Text](url)
 
 FIgure (1) Screen Navigation Diagram 
@@ -59,14 +59,14 @@ FIgure (1) Screen Navigation Diagram
 
  This is a sequence diagram to represent the interaction of the proposed mobile application.
  
- ![Sequence Diagram](/images/sequence.png)
+ ![Sequence Diagram](/sequence.png)
 Format: ![Alt Text](url)
 
                                                 Figure (2) Sequence Diagram 
 
   
 
-######**REFERENCES**
+**REFERENCES**
 
 https://online.visual-paradigm.com/drive/#diagramlist:proj=0&new=MobileWireflow
 https://www.npmjs.com/package/react-native-push-notification
